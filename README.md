@@ -23,9 +23,9 @@ This is the normal page which you open up when u try to create an angular page. 
           npm update
           ng build
  
- The project should now be built successfully on your machine.
+    The project should now be built successfully on your machine.
 
-5. Start the project run this command 
+ 5. Start the project run this command 
 
           ng serve
 
