@@ -5,28 +5,29 @@ AngularJS is a JavaScript-based open-source front-end web framework mainly maint
 
 This is the normal page which you open up when u try to create an angular page. Design of the page may vary according to the Version.
 
-# Basic Requirments
+# Basic Requirements
 
-    1. Nodejs (https://nodejs.org/en/download/).
-    2. AngularCli (https://cli.angular.io/).
-    3. Any IDE of your choice which supports Html and TypeScript(I used VS code,https://code.visualstudio.com/).
+1. Node.js (https://nodejs.org/en/download/).
+2. Angular CLI (https://cli.angular.io/).
+3. Any IDE of your choice which supports HTML and TypeScript (I used VS code,https://code.visualstudio.com/).
 
-# To run this Project do the following steps
+# To run this Project, do the following steps
 
-    1. Clone or download the files.
-    2. After downloading extract all the files to one folder(If cloned already, skip this step).
-    3. Open Command Prompt and navigate to the project folder.
-    4. Run this command in sequence(run these commands only for the first time)
+1. Clone or download the files.
+2. After downloading, extract all the files into a folder (If cloned already, skip this step).
+3. Open Command Prompt and navigate to the project folder.
+4. Run these command in sequence (only for the first time)
 
      # npm install
      # ng update
      # npm update
      # ng build
  
-     By running these commands the project should be built sucessfully on your machine
+ The project should now be built successfully on your machine.
 
-     5. To start the project run this command 
+5. Start the project run this command 
 
      # ng serve
 
-     6. Once the project is built you can simply continue with step 5 run the project in future instances.
+6.The command <b>ngserve</b> can be used to run the project in future instances.
+<a href="www.google.com">Google</a>
