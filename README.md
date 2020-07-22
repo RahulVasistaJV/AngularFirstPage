@@ -23,7 +23,7 @@ This is the normal page which opens up when trying to create an angular page and
           npm update
           ng build
  
-    The project should now be built successfully on your machine.
+    The project should now be built successfully on your machine
 
  5. To start the project run this command 
 
