@@ -18,16 +18,16 @@ This is the normal page which you open up when u try to create an angular page. 
 3. Open Command Prompt and navigate to the project folder.
 4. Run these command in sequence (only for the first time)
 
-     # npm install
-     # ng update
-     # npm update
-     # ng build
+          npm install
+          ng update
+          npm update
+          ng build
  
  The project should now be built successfully on your machine.
 
 5. Start the project run this command 
 
-     # ng serve
+          ng serve
 
 6.The command <b>ngserve</b> can be used to run the project in future instances.
 <a href="www.google.com">Google</a>
