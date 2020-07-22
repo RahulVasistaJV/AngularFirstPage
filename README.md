@@ -3,7 +3,7 @@ AngularJS is a JavaScript-based open-source front-end web framework mainly maint
 
 # AngularDefaultPage
 
-This is the normal page which you open up when u try to create an angular page. Design of the page may vary according to the Version.
+This is the normal page which opens up when trying to create an angular page and host it locally. Design of the page may vary according to the version of the CLI.
 
 # Basic Requirements
 
@@ -13,9 +13,9 @@ This is the normal page which you open up when u try to create an angular page. 
 
 # To run this Project, do the following steps
 
-1. Clone or download the files.
-2. After downloading, extract all the files into a folder (If cloned already, skip this step).
-3. Open Command Prompt and navigate to the project folder.
+1. Clone or download the files
+2. After downloading, extract all the files into a folder (If cloned already, skip this step)
+3. Open Command Prompt and navigate to the project folder
 4. Run these commands in sequence (only for the first time)
 
           npm install
@@ -25,8 +25,8 @@ This is the normal page which you open up when u try to create an angular page. 
  
     The project should now be built successfully on your machine.
 
- 5. Start the project run this command 
+ 5. To start the project run this command 
 
           ng serve
 
-    The abovev command can be used to run the project in future instances
+    The above command can be used to run the project in future instances
